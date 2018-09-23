@@ -1,0 +1,30 @@
+[
+    {
+        "uid": "u111111",
+        "headpic": "https://dpic.tiankong.com/wx/33/QJ6447965148.jpg?x-oss-process=style/670w",
+        "realname": "战魔",
+        "title": "常务总经理",
+        "company": "爆肝信息技术股份有限公司",
+        "phone": "13800138000",
+        "email": "ct@qq.com",
+        "address": "上海市xx区xx路xx号xxx大厦999室",
+        "companyid": "c2222",
+        "stars":33,
+        "savetophone":33,
+        "sended":33,
+        "savetocard":33,
+        "shopid": "s333333"
+    },
+    {
+        "uid": "u1112",
+        "headpic": "https://dpic.tiankong.com/wx/33/QJ6447965148.jpg?x-oss-process=style/670w",
+        "realname": "战魔22",
+        "title": "常务总经理",
+        "company": "爆肝信息技术股份有限公司",
+        "phone": "13800138000",
+        "email": "ct@qq.com",
+        "address": "上海市xx区xx路xx号xxx大厦999室",
+        "companyid": "c111111",
+        "shopid": "s1111111"
+    }
+]

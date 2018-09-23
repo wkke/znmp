@@ -1,0 +1,30 @@
+[
+    {
+        "companyid": "company1111111",
+        "name":"xxxxxxxx",
+        "biz":"",
+        "desc":"",
+        "phone": "13800138000",
+        "fax": "13800138000",
+        "email": "ct@qq.com",
+        "address": "上海市xx区xx路xx号xxx大厦999室",
+        "owneruserid":"",
+        "adminuserids":"",
+        "shopid": "s333333",
+        "slideurl":""
+    },
+    {
+        "companyid": "company22222",
+        "name":"xxxxxxxx",
+        "biz":"",
+        "desc":"",
+        "phone": "13800138000",
+        "fax": "13800138000",
+        "email": "ct@qq.com",
+        "address": "上海市xx区xx路xx号xxx大厦999室",
+        "owneruserid":"",
+        "adminuserids":"",
+        "shopid": "s333333",
+        "slideurl":""
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "orderid": "order11111",
+        "receivername": "战魔",
+        "phone": "13800138000",
+        "address": "上海市xx区xx路xx号xxx大厦999室",
+        "buyeruid": "",
+        "expresscompanycode":"shunfeng",
+        "expresscode":"4556456477",
+        "stores": [
+            {
+                "storeid": "strore11111",
+                "mount": 2
+            },
+            {
+                "storeid": "strore2222",
+                "mount": 1
+            }
+        ],
+        "totalprice":121,
+        "discount":0.5,
+        "finalprice":11,
+        "recommenderuid":"",
+        "status": "",
+        "createtm":""
+    },
+    {
+        "orderid": "order2222",
+        "receivername": "战魔",
+        "phone": "13800138000",
+        "address": "上海市xx区xx路xx号xxx大厦999室",
+        "buyeruid": "",
+        "expresscompanycode":"shunfeng",
+        "expresscode":"4556456477",
+        "stores": [
+            {
+                "storeid": "strore11111",
+                "mount": 2
+            },
+            {
+                "storeid": "strore2222",
+                "mount": 1
+            }
+        ],
+        "totalprice":121,
+        "discount":0.5,
+        "finalprice":11,
+        "recommenderuid":"",
+        "status": "",
+        "createtm":""
+    }
+]

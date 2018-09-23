@@ -1,0 +1,18 @@
+[
+    {
+        "": "store11111",
+        "name":"货物1",
+        "unit":"只",
+        "price":233,
+        "stockmount":3234,
+        "shopid": "s333333"      
+    },
+    {
+        "storeid": "store22222",
+        "name":"货物2",
+        "unit":"只",
+        "price":233,
+        "stockmount":3234,
+        "shopid": "s333333"      
+    }
+]
